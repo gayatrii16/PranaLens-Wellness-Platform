@@ -1,0 +1,152 @@
+[
+  {
+    "id": "assessment-seed-1",
+    "userId": "seed-user-1",
+    "createdAt": "2026-04-21T08:00:00.000Z",
+    "answers": [
+      {
+        "id": "sleep-quality",
+        "category": "Recovery",
+        "dosha": "vata",
+        "value": 4
+      },
+      {
+        "id": "stress-load",
+        "category": "Stress",
+        "dosha": "pitta",
+        "value": 3
+      },
+      {
+        "id": "digestion",
+        "category": "Nutrition",
+        "dosha": "pitta",
+        "value": 4
+      },
+      {
+        "id": "focus",
+        "category": "Mental Clarity",
+        "dosha": "vata",
+        "value": 4
+      },
+      {
+        "id": "movement",
+        "category": "Physical Vitality",
+        "dosha": "kapha",
+        "value": 3
+      },
+      {
+        "id": "emotional-balance",
+        "category": "Emotional Wellness",
+        "dosha": "vata",
+        "value": 4
+      },
+      {
+        "id": "screen-overload",
+        "category": "Lifestyle",
+        "dosha": "kapha",
+        "value": 3
+      },
+      {
+        "id": "resilience",
+        "category": "Resilience",
+        "dosha": "kapha",
+        "value": 4
+      }
+    ],
+    "score": 73,
+    "status": "Adaptive Recovery",
+    "color": "#38bdf8",
+    "dominantDosha": "vata",
+    "energyInsight": "Focus on warmth, routine, and grounding recovery rituals.",
+    "recommendations": {
+      "lifestyle": [
+        "Introduce 5-minute recovery pauses every 90 minutes to reduce cognitive fatigue.",
+        "Anchor your day with regular mealtimes and a fixed sleep window.",
+        "Use acupressure-inspired self-massage on palms, neck, and soles to ease stress accumulation."
+      ],
+      "nutrition": [
+        "Reduce excess caffeine after 2 PM and increase warm, grounding meals.",
+        "Support stable energy with balanced plates: protein, fiber, vegetables, and whole grains."
+      ],
+      "mindfulness": [
+        "Try guided body scans or alternate nostril breathing twice a day.",
+        "Replace one doom-scrolling habit with a 15-minute restorative evening routine."
+      ]
+    }
+  },
+  {
+    "id": "ZhJ5npBeiDAiaJ2vA1OLd",
+    "userId": "jI_IqInvG46Y4-tviVA8v",
+    "createdAt": "2026-04-25T10:52:41.436Z",
+    "answers": [
+      {
+        "id": "sleep-quality",
+        "category": "Recovery",
+        "dosha": "vata",
+        "value": 3
+      },
+      {
+        "id": "stress-load",
+        "category": "Stress",
+        "dosha": "pitta",
+        "value": 3
+      },
+      {
+        "id": "digestion",
+        "category": "Nutrition",
+        "dosha": "pitta",
+        "value": 3
+      },
+      {
+        "id": "focus",
+        "category": "Mental Clarity",
+        "dosha": "vata",
+        "value": 3
+      },
+      {
+        "id": "movement",
+        "category": "Physical Vitality",
+        "dosha": "kapha",
+        "value": 3
+      },
+      {
+        "id": "emotional-balance",
+        "category": "Emotional Wellness",
+        "dosha": "vata",
+        "value": 3
+      },
+      {
+        "id": "screen-overload",
+        "category": "Lifestyle",
+        "dosha": "kapha",
+        "value": 3
+      },
+      {
+        "id": "resilience",
+        "category": "Resilience",
+        "dosha": "kapha",
+        "value": 3
+      }
+    ],
+    "score": 60,
+    "status": "Needs Rebalancing",
+    "color": "#f59e0b",
+    "dominantDosha": "vata",
+    "energyInsight": "Focus on warmth, routine, and grounding recovery rituals.",
+    "recommendations": {
+      "lifestyle": [
+        "Prioritize a lighter weekly schedule with deliberate recovery blocks and lower evening stimulation.",
+        "Shift from intense exercise to gentle mobility, stretching, and short outdoor walks.",
+        "Book a guided in-person wellness session to interpret your energy patterns more deeply."
+      ],
+      "nutrition": [
+        "Choose warm, easy-to-digest meals and avoid skipping breakfast.",
+        "Track hydration and keep simple nourishing snacks available during busy hours."
+      ],
+      "mindfulness": [
+        "Practice 5 minutes of diaphragmatic breathing on waking and before sleep.",
+        "Use journaling prompts to spot stress triggers and energy drains."
+      ]
+    }
+  }
+]

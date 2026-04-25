@@ -1,0 +1,35 @@
+[
+  {
+    "id": "blog-1",
+    "title": "Why Preventive Wellness Needs More Than Step Counts",
+    "excerpt": "A modern wellness strategy combines behavior, energy patterns, recovery, and context instead of relying on one metric.",
+    "category": "Preventive Care",
+    "author": "Dr. Naina Kapoor",
+    "readTime": "5 min read",
+    "publishedAt": "2026-04-10",
+    "image": "/logo-mark.svg",
+    "content": "Traditional wellness dashboards often focus on isolated numbers. In practice, people need a richer view that connects stress, sleep, focus, movement, and emotional regulation. PranaLens uses AI-assisted interpretation with Ayurveda-informed insights and in-person observation to create a more holistic read on wellbeing."
+  },
+  {
+    "id": "blog-2",
+    "title": "How Ayurveda-Informed Routines Support Modern Professionals",
+    "excerpt": "Small shifts in meal timing, recovery rituals, and sensory load can meaningfully improve resilience for busy teams.",
+    "category": "Ayurveda",
+    "author": "Ishita Rao",
+    "readTime": "6 min read",
+    "publishedAt": "2026-04-14",
+    "image": "/logo-mark.svg",
+    "content": "Wellness routines work best when they are simple enough to sustain. Ayurveda offers practical guidance around rhythm, digestion, rest, and energy management. When paired with modern behavior design and personalized recommendations, these routines become easier to integrate into real schedules."
+  },
+  {
+    "id": "blog-3",
+    "title": "Building a Campus Wellness Index That Students Actually Use",
+    "excerpt": "Institutions need measurable, human-centered ways to understand burnout risk, resilience, and support opportunities.",
+    "category": "Institutional Wellness",
+    "author": "Rhea Menon",
+    "readTime": "7 min read",
+    "publishedAt": "2026-04-18",
+    "image": "/logo-mark.svg",
+    "content": "Campus wellness efforts often fail when they feel generic. A useful wellness index blends individual assessments, aggregate trends, and low-friction follow-up services. The result is a stronger view of how stress, routine, and recovery are shaping student outcomes."
+  }
+]

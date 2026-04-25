@@ -1,0 +1,30 @@
+[
+  {
+    "id": "seed-user-1",
+    "fullName": "Aarav Mehta",
+    "email": "aarav@pranalens.com",
+    "passwordHash": "$2a$10$i0hYdM1P6v6pA8Wvl7uW4u7A2xTqM6a6xD2J5Kf3A1jHB6vZQZbA2",
+    "demoPassword": "Demo@123",
+    "role": "Working Professional",
+    "organization": "PranaLens Demo",
+    "createdAt": "2026-04-20T09:30:00.000Z"
+  },
+  {
+    "id": "YXcYawpot0n0JTD6WTORV",
+    "fullName": "Harsh Mate ",
+    "email": "harsh@gmail.com",
+    "passwordHash": "$2a$10$NskgYTcvVSZkplEqJdsyfe8U2ZrGr.wRtVRfGV2blVXdqov.HSIbK",
+    "role": "Student",
+    "organization": "SIT",
+    "createdAt": "2026-04-24T15:56:51.068Z"
+  },
+  {
+    "id": "jI_IqInvG46Y4-tviVA8v",
+    "fullName": "ron",
+    "email": "ron@gmail.com",
+    "passwordHash": "$2a$10$q/pC03NHf1HgIPFAsA8AkepdpPaqEhHmJVdLTXAJOr6fKBn3WJHxm",
+    "role": "Student",
+    "organization": "SIT",
+    "createdAt": "2026-04-25T10:51:45.909Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "appointment-seed-1",
+    "userId": "seed-user-1",
+    "fullName": "Aarav Mehta",
+    "email": "aarav@pranalens.com",
+    "assessmentType": "In-Person Energy Mapping",
+    "preferredDate": "2026-04-28",
+    "preferredTime": "11:00",
+    "notes": "Needs stress and sleep optimization guidance before product launch week.",
+    "status": "Pending Confirmation",
+    "createdAt": "2026-04-22T10:30:00.000Z"
+  },
+  {
+    "id": "d4I8Ap8FogDhfEjmNbzZQ",
+    "userId": "jI_IqInvG46Y4-tviVA8v",
+    "fullName": "ron",
+    "email": "ron@gmail.com",
+    "assessmentType": "In-Person Energy Mapping",
+    "preferredDate": "2026-04-26",
+    "preferredTime": "13:02",
+    "notes": "",
+    "status": "Pending Confirmation",
+    "createdAt": "2026-04-25T10:53:18.572Z"
+  }
+]
