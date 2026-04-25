@@ -18,8 +18,7 @@ app.use(
       "https://prana-lens-wellness-platform.vercel.app"
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-    credentials: true
+    allowedHeaders: ["Content-Type", "Authorization"]
   })
 );
 app.use(express.json());
