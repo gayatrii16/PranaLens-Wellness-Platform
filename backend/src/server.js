@@ -14,8 +14,9 @@ import cors from "cors";
 app.use(
   cors({
     origin: [
-      "https://prana-lens-wellness-platform-lylz.vercel.app",
-      "https://prana-lens-wellness-platform.vercel.app"
+      "http://localhost:5173",
+      "https://prana-lens-wellness-platform.vercel.app",
+      "https://*.vercel.app"
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"]
