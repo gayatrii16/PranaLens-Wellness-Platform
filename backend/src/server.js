@@ -8,7 +8,12 @@ import dashboardRoutes from "./routes/dashboardRoutes.js";
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-const CLIENT_ORIGIN = process.env.CLIENT_ORIGIN || "http://localhost:5173";
+app.use(
+  cors({
+    origin: "*",
+    credentials: true
+  })
+);
 
 app.use(
   cors({
