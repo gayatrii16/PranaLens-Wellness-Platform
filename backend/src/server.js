@@ -11,7 +11,11 @@ const PORT = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "*",
+    origin: [
+      "http://localhost:5173",
+      "https://prana-lens-wellness-platform-lylz.vercel.app",
+      "https://prana-lens-wellness-platform.vercel.app"
+    ],
     credentials: true
   })
 );
